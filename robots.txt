@@ -5,6 +5,9 @@ Disallow: /node_modules/
 
 Sitemap: https://github.com/goriber-developer/Afif.exe/sitemap.xml
 
+# Google Site Verification
+# google-site-verification=R9AuAflXFOBZW-I_zzEc3--W3pYN_WwJOFohzueTkIE
+
 # Allow all search engines
 User-agent: Googlebot
 Allow: /
